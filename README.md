@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bonjour, je suis Rêve Syndie 
 
-<!--
-**badjina123/badjina123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Technicienne en administration systèmes et réseaux  
+ En formation sur la supervision (Zabbix) et la sécurité (Wazuh)  
+ Basée à Dakar, Sénégal  
+ À la recherche d'opportunités à distance en Administration Systèmes/Réseaux
 
-Here are some ideas to get you started:
+##  Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Systèmes** : Linux (administration de base)
+- **Supervision** : Zabbix (configuration, alertes, médias)
+- **Sécurité** : Wazuh (en cours d'apprentissage)
+- **Réseaux** : Notions de bases réseaux, DNS, SMTP
+- **Web** : JavaScript, HTML/CSS
+
+##  Projets en cours
+
+-  **Mise en place d'une supervision Zabbix** avec alertes par email, gestion d'équipes (supervision/sécurité), et intégration future avec Wazuh
+
+##  Me contacter
+
+- Email : badjinaboussougourevesyndie@gmail.com
+- LinkedIn : www.linkedin.com/in/reve-syndie-badjina-boussougou-b44b6823a
